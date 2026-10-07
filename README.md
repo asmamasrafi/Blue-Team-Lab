@@ -84,9 +84,8 @@ Kali Linux
 ```
 
 ### 📸 Attack Simulation Evidence
-
-*Add screenshots of the Kali Linux environment and the generated network activity here.*
-
+![Kali Linux Attack Simulation](screenshots/01-kali-attack-simulation.png)
+![Snort IDS Detection](screenshots/02-snort-detection.png)
 ---
 
 # 🟢 Snort IDS Detection
